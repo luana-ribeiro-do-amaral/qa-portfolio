@@ -39,9 +39,9 @@ The user should be redirected to the Domino's international page listing global 
 
 The user is redirected to a blank page. No content, navigation, or error message is displayed.
 
-## Attachments
+## Evidence
 
-International-Bug.png
+![International Link Bug](internacional-bug.png)
 
 ## Related Test Case
 
