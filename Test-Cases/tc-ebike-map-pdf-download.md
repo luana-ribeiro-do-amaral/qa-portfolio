@@ -40,4 +40,4 @@ Failed
 
 ## Related Defect
 
-[BB-001](Bug-Reports/bug-report-bern-ebike-pdf.md)
+[BB-001 - PDF download for the E-Bike Map is not available](../Bug-Reports/bug-report-bern-ebike-pdf.md)
