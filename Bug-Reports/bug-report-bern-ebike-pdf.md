@@ -35,4 +35,4 @@ An error message is displayed instead.
 ## Attachments
 Screenshot attached.
 
-![Bug Screenshot](Bern e-bike.png)
+![Bug Screenshot](bern-e-bike.png)
