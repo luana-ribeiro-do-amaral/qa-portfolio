@@ -1,4 +1,4 @@
-# Test Case – Verify International Footer Link Redirect
+# Test Case – Domino's Verify International Footer Link Redirect
 
 ## Test Case ID
 
