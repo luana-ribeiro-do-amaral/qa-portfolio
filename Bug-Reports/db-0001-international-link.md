@@ -41,7 +41,9 @@ The user is redirected to a blank page. No content, navigation, or error message
 
 ## Evidence
 
-![International Link Bug](internacional-bug.mp4)
+The following video shows the reproduction of the issue:
+
+[Video Evidence – International Link Redirect Bug](https://screenrec.com/share/YS3D2XWZEP)
 
 ## Related Test Case
 
