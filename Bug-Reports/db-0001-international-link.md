@@ -1,4 +1,4 @@
-# Bug Report – International Link Does Not Redirect to the International Page
+# Bug Report – Domino's International Link Does Not Redirect to the International Page
 
 ## Bug ID
 
