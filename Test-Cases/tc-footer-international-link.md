@@ -39,4 +39,4 @@ Failed
 
 ## Related Defect
 
-DB-0001 – International Link Does Not Redirect to the International Page
+[DB-0001](../Bug-Reports/db-0001-international-link.md)
