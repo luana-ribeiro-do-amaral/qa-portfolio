@@ -38,7 +38,7 @@ This repository contains examples of manual testing documentation created to dem
 ### Domino's Brazil
 
 - [TC-002 – Verify International Footer Link Redirect](Test-Cases/tc-footer-international-link.md)
-- [DB-0001 – International Link Does Not Redirect to the International Page](Bug-Reports/db-0001-internacional-link.md)
+- [DB-0001 – International Link Does Not Redirect to the International Page](Bug-Reports/db-0001-international-link.md)
 
 ## Goals
 
