@@ -41,7 +41,7 @@ The user is redirected to a blank page. No content, navigation, or error message
 
 ## Evidence
 
-![International Link Bug](internacional-bug.png)
+![International Link Bug](internacional-bug.mp4)
 
 ## Related Test Case
 
