@@ -27,29 +27,18 @@ This repository contains examples of manual testing documentation created to dem
 
 ## Projects
 
+## Projects
+
 ### Bern Website
 
-#### Checklist
-
-* E-Bike Map PDF Download Checklist
-
-#### Test Case
-
-* TC-001 – Verify E-Bike Map PDF Download
-
-#### Bug Report
-
-* BB-001 – PDF download for the E-Bike Map is not available
+- [Checklist – E-Bike Map PDF Download](Checklists/checklist-ebike-map.md)
+- [TC-001 – Verify E-Bike Map PDF Download](Test-Cases/tc-ebike-map-pdf-download.md)
+- [BB-001 – PDF download for the E-Bike Map is not available](Bug-Reports/bug-report-bern-ebike-pdf.md)
 
 ### Domino's Brazil
 
-#### Test Case
-
-* TC-002 – Verify International Footer Link Redirect
-
-#### Bug Report
-
-* DB-0001 – International Link Does Not Redirect to the International Page
+- [TC-002 – Verify International Footer Link Redirect](Test-Cases/tc-footer-international-link.md)
+- [DB-0001 – International Link Does Not Redirect to the International Page](Bug-Reports/db-0001-internacional-link.md)
 
 ## Goals
 
