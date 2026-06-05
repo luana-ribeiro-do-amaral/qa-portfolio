@@ -1,7 +1,7 @@
 # Bug Report – PDF download for the E-Bike Map is not available
 
 ## Bug ID
-TC-001
+BB-001
 
 ## Summary
 PDF download for the E-Bike Map is not available
