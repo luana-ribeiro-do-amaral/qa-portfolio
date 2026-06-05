@@ -32,6 +32,10 @@ An error message is displayed instead.
 ## Frequency
 5/5 times (100%)
 
+## Related Test Case
+
+[TC-001 - Verify E-Bike Map PDF Download](../Test-Cases/tc-ebike-map-pdf-download.md)
+
 ## Attachments
 Screenshot attached.
 
