@@ -51,3 +51,7 @@ The order details page loads successfully and displays another user's order info
 ## Impact
 
 Unauthorized users can access sensitive customer information, resulting in a serious security and privacy vulnerability.
+
+## Related Test Case
+
+[TC SWEET-001 - Verify User Cannot Access Another User's Order](../Test-Cases/sweet-tc-verify-user-cannot-access-another-users-order.md)
