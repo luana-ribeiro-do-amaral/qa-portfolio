@@ -9,13 +9,16 @@ PDF download for the E-Bike Map is not available
 ## Severity
 Critical
 
+## Priority
+High
+
 ## Environment
 - OS: Windows 11
 - Browser: Google Chrome 136
 - Website: The official page of Bern 
 
 ## Preconditions
-User is on the Practical Information page.
+User is on the [Practical Information](https://bern.com/en/inform/practical-information/) page.
 
 ## Steps to Reproduce
 1. Open the Home page.
