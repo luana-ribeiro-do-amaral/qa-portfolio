@@ -39,10 +39,14 @@ The official Brazilian website of the Domino's Pizza chain.
 - [TC-002 – Verify International Footer Link Redirect](Test-Cases/tc-footer-international-link.md)
 - [DB-0001 – International Link Does Not Redirect to the International Page](Bug-Reports/db-0001-international-link.md)
 
+### Sweet Shop
+A demo e-commerce website designed for software testing practice.
+- [TC SWEET-001 – Verify User Cannot Access Another User's Order](./Test-Cases/sweet-tc-verify-user-cannot-access-another-users-order.md)
+- [SB-001 – Unauthorized Access to Another User's Order](./Bug-Reports/sweet-bug-unauthorized-order-access.md)
+
 ## Goals
 
 This portfolio demonstrates my ability to:
-
 * Design and execute test cases
 * Identify and document software defects
 * Create structured bug reports
