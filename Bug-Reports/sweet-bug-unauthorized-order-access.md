@@ -48,6 +48,12 @@ The order details page loads successfully and displays another user's order info
 
 5/5 times (100%)
 
+## Evidence
+
+### Screenshot showing unauthorized access to another user's order
+
+![Unauthorized Access to Another User's Order](../Evidence/sweet-evidence-bug.png)
+
 ## Impact
 
 Unauthorized users can access sensitive customer information, resulting in a serious security and privacy vulnerability.
