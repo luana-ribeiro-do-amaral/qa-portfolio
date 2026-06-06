@@ -19,12 +19,13 @@ Practical Information
 * [ ] Verify that the downloaded file is in PDF format.
 * [ ] Verify that the PDF content is not corrupted.
 * [ ] Verify that the PDF can be downloaded multiple times.
-* [ ] Verify that the PDF download works in Google Chrome.
-* [ ] Verify that the PDF download works in Mozilla Firefox.
-* [ ] Verify that the PDF download works in Microsoft Edge.
 * [ ] Verify that an appropriate error message is displayed if the PDF is unavailable.
 * [ ] Verify that the download completes within an acceptable time.
 * [ ] Verify that no broken links are present in the E-Bike Map section.
+### Cross-Browser Testing
+* [ ] Verify that the PDF download works in Google Chrome.
+* [ ] Verify that the PDF download works in Mozilla Firefox.
+* [ ] Verify that the PDF download works in Microsoft Edge.
 
 ## Related Test Case
 
