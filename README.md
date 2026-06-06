@@ -27,8 +27,6 @@ This repository contains examples of manual testing documentation created to dem
 
 ## Projects
 
-## Projects
-
 ### Bern Website
 
 - [Checklist – E-Bike Map PDF Download](Checklists/checklist-ebike-map.md)
