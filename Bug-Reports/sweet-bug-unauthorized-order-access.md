@@ -52,7 +52,7 @@ The order details page loads successfully and displays another user's order info
 
 ### Screenshot showing unauthorized access to another user's order
 
-![Unauthorized Access to Another User's Order](../Evidence/sweet-evidence-bug.png)
+![Unauthorized Access to Another User's Order](sweet-evidence-bug.png)
 
 ## Impact
 
