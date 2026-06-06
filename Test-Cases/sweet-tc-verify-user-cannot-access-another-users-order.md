@@ -2,7 +2,7 @@
 
 ## Test Case ID
 
-TC-001
+TC SWEET-001
 
 ## Module
 
